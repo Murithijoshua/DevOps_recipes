@@ -1,6 +1,7 @@
 # Server Stats
 
 This repository contains a script `server_stats.sh` that collects and displays various server statistics.
+For the project roadmap, please visit [Server Stats Roadmap](https://roadmap.sh/projects/server-stats).
 
 ## Features
 
